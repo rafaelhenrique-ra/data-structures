@@ -1,0 +1,3 @@
+- Como executar:
+1. Salve o código em um arquivo ordenacao.py
+2. Execute via linha de comando: python ordenacao.py
